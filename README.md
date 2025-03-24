@@ -24,8 +24,11 @@ GPT is built on the Transformer decoder architecture, which consists of multiple
 
 ## 📌 How GPT Works?
 Input Processing – Converts text into embeddings with positional encoding.
+
 Masked Self-Attention – Looks only at previous words to maintain logical flow.
+
 Feed-Forward Computation – Passes data through multiple transformer layers.
+
 Token Prediction – Outputs the most probable next token in the sequence.
 
 ## 📊 Applications of GPT
